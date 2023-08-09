@@ -1,4 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Full-Stack CRM App with NextJS</h1>
+
+
+## Next's Concepts used:
+- File-based routing
+- SSR (index page)
+- working with "api" folder and build API for this app (api-routing)
+- Working with real Database (MongoDB Atlas - cluster)
+- Working with "Link, useRouter" in next
+- Using .env for keeping some data safe
 
 ## Getting Started
 
